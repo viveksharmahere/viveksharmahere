@@ -19,7 +19,7 @@ In my repository, you will find various projects related to **Data Analytics** a
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://[linkedin.com/in/your-profile](https://www.linkedin.com/in/viveksharmahere/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/viveksharmahere/)
 - 📧 Email: vivek.ssharma36@gmail.com
 
 
